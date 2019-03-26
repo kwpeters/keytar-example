@@ -1,0 +1,24 @@
+{
+  "name": "keytar-example",
+  "version": "1.0.0",
+  "description": "A sample app using keytar",
+  "main": "not-a-module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwpeters/keytar-example.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kwpeters/keytar-example/issues"
+  },
+  "homepage": "https://github.com/kwpeters/keytar-example#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "keytar": "^4.4.1"
+  }
+}
