@@ -19,6 +19,7 @@
   "homepage": "https://github.com/kwpeters/keytar-example#readme",
   "dependencies": {
     "express": "^4.16.4",
-    "keytar": "^4.4.1"
+    "keytar": "^4.4.1",
+    "os-service": "^2.1.3"
   }
 }
