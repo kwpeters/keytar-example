@@ -1,3 +1,3 @@
 rmdir /S /Q build
 mkdir build
-pkg --targets node10-win-x64 index.js --output build\keytar-example-service.exe
+pkg --targets node10-win-x64 keytar-service.js --output build\keytar-service.exe
