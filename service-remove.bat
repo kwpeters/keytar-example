@@ -1,0 +1,1 @@
+sc delete keytar-example-service

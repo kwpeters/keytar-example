@@ -1,0 +1,1 @@
+sc create keytar-example-service  binPath= "c:\Windows\ServiceProfiles\NetworkService\dev\keytar-example\build\keytar-example-service.exe --run" start= auto obj= "NT Authority\Network Service" password= ""
