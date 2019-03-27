@@ -49,7 +49,9 @@ else if (process.argv[2] === "--run") {
 
     });
 
-    app.listen(PORT_NUM);
+    app.listen(PORT_NUM, () => {
+        console.log(`${SERVICE_NAME} is now listening on port ${PORT_NUM}.`);
+    });
 
 }
 else {
